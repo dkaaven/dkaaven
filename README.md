@@ -6,7 +6,7 @@
 <p>💞️ I’m looking to collaborate automation and teams apps.</p>
 
 <h2>How to reach me</h2>
-🌐 <a href="https://kaaven.se">kaaven.se</a>
+🌐 <a href="https://kaaven.se">kaaven.se</a> <br>
 👨🏼‍💼 <a href="https://linkedin.com/in/dkaaven">linkedin.com/in/dkaaven</a>
 
 <!---
