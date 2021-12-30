@@ -1,16 +1,14 @@
-name: Blog post workflow
+name: Latest blog post workflow
 on:
   schedule:
-    # Runs every day at 3pm UTC (11pm SG)
+    # Runs every hour
     - cron: '0 15 * * *'
+  workflow_dispatch:
 
 jobs:
-  pull_blog_rss:
-    name: Update with latest blog posts
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Get RSS Feed
-        uses: kohrongying/readme-the-rss@master
-        with:
-          feed_url: https://teams.se/feed/
+      - uses: gautamkrishnar/blog-post-workflow@master
