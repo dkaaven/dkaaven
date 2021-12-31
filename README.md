@@ -6,8 +6,8 @@
 <p>💞️ I’m looking to collaborate on automation and teams apps.</p>
 
 ## 📰 Teams Nordic - Latest
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h2>How to reach me</h2>
 👨🏼‍💼 <a href="https://linkedin.com/in/dkaaven">linkedin.com/in/dkaaven</a>
