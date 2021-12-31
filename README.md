@@ -7,6 +7,11 @@
 
 ## 📰 Teams Nordic - Latest
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Teams – The purpose of your teams](https://teams.se/microsoft-teams-the-purpose-of-your-teams/)
+- [Guide: Running a community in Microsoft Teams](https://teams.se/guide-running-a-community-in-microsoft-teams/)
+- [Windows 10 Tip: GodMode Control Panel](https://teams.se/windows-10-tip-godmode-control-panel/)
+- [How to pronounce Azure correctly](https://teams.se/how-to-pronounce-azure-correctly/)
+- [Change website design when in Microsoft Teams](https://teams.se/change-website-design-when-in-microsoft-teams/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>How to reach me</h2>
