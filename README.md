@@ -6,13 +6,13 @@
 🥉 Microsoft Intune, including Autopilot and Defender <br>
 
 ## How to reach me
-🌐 [Personal (kaaven.se)](https://kaaven.se)
-🌐 [Teams Nordic (teams.se)](https://teams.se)
-
+🌐 [Personal (kaaven.se)](https://kaaven.se) <br>
+🌐 [Teams Nordic (teams.se)](https://teams.se) <br>
+ <br>
 ### Online Profiles
-📖 [Microsoft Learn | kaaven](https://docs.microsoft.com/nb-no/users/kaaven/)
-👨‍💻 [github | dkaaven](https://github.com/dkaaven)
-👨🏼‍💼 [linkedin | dkaaven](https://linkedin.com/in/dkaaven)
+📖 [Microsoft Learn | kaaven](https://docs.microsoft.com/nb-no/users/kaaven/) <br>
+👨‍💻 [github | dkaaven](https://github.com/dkaaven) <br>
+👨🏼‍💼 [linkedin | dkaaven](https://linkedin.com/in/dkaaven) <br>
 
 
 ## 📰 Teams Nordic - Latest
