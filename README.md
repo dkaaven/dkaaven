@@ -11,6 +11,7 @@
  <br>
 ### Online Profiles
 📖 [Microsoft Learn | kaaven](https://docs.microsoft.com/nb-no/users/kaaven/) <br>
+🧑🏼‍🏫 [Sessionize | kaaven](https://sessionize.com/kaaven) <br>
 👨‍💻 [github | dkaaven](https://github.com/dkaaven) <br>
 👨🏼‍💼 [linkedin | dkaaven](https://linkedin.com/in/dkaaven) <br>
 
