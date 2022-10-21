@@ -1,14 +1,18 @@
 🧔🏼 Hi, I’m Daniel Kåven // @dkaaven <br>
 🗺️ Located in Norway
-🌱 I’m currently learning Python and Ethical hacking<br>
+🌱 Microsoft MCT and company development<br>
 🥇 Microsoft 365 plattform, with a focus on Microsoft Teams<br>
 🥈 Webdesign with Wordpress, HTML, CSS, PHP, jQuery <br>
 🥉 Microsoft Intune, including Autopilot and Defender <br>
 
+## Company
+🌐 [Teams Nordic Trainers (teamsnordic.com)](https://teamsnordic.com) <br>
+👨🏼‍💼 [linkedin | @TeamsNordic](https://linkedin.com/company/teamsnordic) <br>
+<br>
 ## How to reach me
 🌐 [Personal (kaaven.se)](https://kaaven.se) <br>
-🌐 [Teams Nordic (teams.se)](https://teams.se) <br>
- <br>
+🌐 [Teams Nordic Blog (teams.se)](https://teams.se) <br>
+<br>
 ### Online Profiles
 📖 [Microsoft Learn | kaaven](https://docs.microsoft.com/nb-no/users/kaaven/) <br>
 🧑🏼‍🏫 [Sessionize | kaaven](https://sessionize.com/kaaven) <br>
