@@ -1,6 +1,6 @@
 🧔🏼 Hi, I’m Daniel Kåven // @dkaaven <br>
 🗺️ Located in Norway
-🌱 Microsoft MCT and company development<br>
+🌱 Microsoft MCT and founder of Teams Nordic<br>
 🥇 Microsoft 365 plattform, with a focus on Microsoft Teams<br>
 🥈 Webdesign with Wordpress, HTML, CSS, PHP, jQuery <br>
 🥉 Microsoft Intune, including Autopilot and Defender <br>
