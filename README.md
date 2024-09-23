@@ -1,7 +1,8 @@
 🧔🏼 Hi, I’m Daniel Kåven // @dkaaven <br>
-🏢 Senior consultant @ [Biztek AS](https://biztek.no)
-🗺️ Located in Norway
+🏢 Senior consultant @ [Biztek AS](https://biztek.no)<br>
+🗺️ Located in Trondheim, Norway<br>
 🌱 Microsoft MCT Alumni and founder of Teams Nordic<br>
+🌐 [Blog (teams.se)](https://teams.se) <br>
 
 ##  Areas of expertice
 🥇 Microsoft 365 plattform, with a focus on Microsoft Teams<br>
@@ -11,7 +12,6 @@
 🥉 PowerShell and Python scripting and programming
 🥉 Microsoft Intune, including Autopilot and Defender <br>
 <br>
-🌐 [Blog (teams.se)](https://teams.se) <br>
 <br>
 ### Online Profiles
 📖 [Microsoft Learn | kaaven](https://docs.microsoft.com/nb-no/users/kaaven/) <br>
