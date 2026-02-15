@@ -1,5 +1,5 @@
 🧔🏼 Hi, I’m Daniel Kåven // @dkaaven <br>
-🏢 Senior consultant @ [Biztek AS](https://biztek.no) <br>
+🏢 Senior consultant @ [Serit Nidaros](https://nidaros.serit.no) <br>
 🗺️ Located in Trondheim, Norway<br>
 🌱 Microsoft MCT Alumni <br>
 🌐 [Blog (teams.se)](https://teams.se) <br>
@@ -8,9 +8,9 @@
 🥇 Microsoft 365 plattform, with a focus on Microsoft Teams <br>
 🥇 SharePoint, building intranet, QMS and project hotels for SMB market <br>
 🥈 AI. Copilot for Microsoft 365 <br>
+🥈 Microsoft Intune, including Autopilot and Defender <br>
 🥈 Webdesign with Wordpress, HTML, CSS, PHP, jQuery <br>
 🥉 PowerShell and Python scripting and programming <br>
-🥉 Microsoft Intune, including Autopilot and Defender <br>
 <br>
 <br>
 ### Online Profiles
