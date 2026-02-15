@@ -1,5 +1,5 @@
 🧔🏼 Hi, I’m Daniel Kåven // @dkaaven <br>
-🏢 Senior consultant @ [Serit Nidaros](https://nidaros.serit.no) <br>
+🏢 Consultant Manager @ [Serit Nidaros](https://nidaros.serit.no) <br>
 🗺️ Located in Trondheim, Norway<br>
 🌱 Microsoft MCT Alumni <br>
 🌐 [Blog (teams.se)](https://teams.se) <br>
